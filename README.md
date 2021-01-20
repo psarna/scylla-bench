@@ -5,7 +5,7 @@ scylla-bench is a benchmarking tool for [Scylla](https://github.com/scylladb/scy
 ## Install
 
 ```
-go get github.com/scylladb/scylla-bench
+go get github.com/psarna/scylla-bench
 ```
 
 ## Usage

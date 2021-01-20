@@ -1,4 +1,4 @@
-module github.com/scylladb/scylla-bench
+module github.com/psarna/scylla-bench
 
 go 1.12
 

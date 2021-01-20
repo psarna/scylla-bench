@@ -14,7 +14,7 @@ import (
 	"github.com/gocql/gocql"
 	"github.com/hailocab/go-hostpool"
 	"github.com/pkg/errors"
-	"github.com/scylladb/scylla-bench/random"
+	"github.com/psarna/scylla-bench/random"
 )
 
 type DistributionValue struct {
